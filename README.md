@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hunghnUIT
-- 👀 I’m interested in NodeJS and ReactJS
-- 🌱 I’m studying at [University of Information Technology](https://www.uit.edu.vn) - [Vietnam National University - HCMC](https://vnuhcm.edu.vn/)
+- 👀 I’m interested in NodeJS and ReactJS but willing to learn new technologies
+- 🌱 I graduated from [University of Information Technology](https://www.uit.edu.vn) - [Vietnam National University - HCMC](https://vnuhcm.edu.vn/)
 - :briefcase: I'm Software Engineer at [KMS Technologies Vietnam](https://kms-technology.com/)
 
 <!---
